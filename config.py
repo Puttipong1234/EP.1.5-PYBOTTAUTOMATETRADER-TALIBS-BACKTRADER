@@ -1,0 +1,3 @@
+binance_api_key = "KL05dn6RTIoYorvn6g3EizYU8DOHOSa5LzaoczwaP0TNi5vevWdJVSOHBLTjLWfD"
+binance_api_secret = "RizS4CueXpb9ILq3pJB0PxKpOOlNDvakeVTlwJOJ9TpwT9iR6MXkRvkM7oTOGC8z"
+Line_token = "UjA0GmWQuBKOct51LJT0m6Xe20Ms6w1SC26PQ5AXlZs"
